@@ -19,7 +19,7 @@ function Login() {
       <input type="submit" value="Sign in" />
     </div>
     <div className="links">
-      <a href="#">Forget Password?</a>
+      <a href="/">Forget Password?</a>
       <Link to="/signup">signup</Link>
     </div>
   </div>
