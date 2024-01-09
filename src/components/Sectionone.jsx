@@ -1,12 +1,12 @@
 // Section_one.jsx
 import React from 'react';
-import './Section_one.css';
+import './Sectionone.css';
 import image1 from '../images/bulb.jpg';
 import image2 from '../images/brain.jpg';
 import image3 from '../images/agri.jpg';
 import image4 from '../images/testtube.avif';
 
-function Section_one() {
+function Sectionone() {
   return (
     <div className="section-one-container">
       <h2 className="section-heading">Upcomming 2024 Conferences</h2>
@@ -32,4 +32,4 @@ function Section_one() {
   );
 }
 
-export default Section_one;
+export default Sectionone;
